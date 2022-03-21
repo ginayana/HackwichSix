@@ -14,6 +14,8 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     var friendsHomeArray = ["Kapolei"]
     var restaurantImageData = [String]()
     
+    //test
+    
     @IBOutlet weak var tableView: UITableView!
     
     override func viewDidLoad() {
